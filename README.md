@@ -1,4 +1,4 @@
-# unity-test-SinCurve
+# unity-test-Spiral
 
 螺旋状にオブジェクトを生成するサンプルコードです。
 
